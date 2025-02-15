@@ -2,8 +2,11 @@
 
 $botToken = "6486751482:AAF2NFLs7a9ID7wIdxG5YK4wpQhGTk6-JJ0";
 $website = "https://api.telegram.org/bot".$botToken;
+
+// Mensaje en consola para indicar que el bot está activo
+echo "Bot iniciado y en ejecución...\n";
+
 $update = file_get_contents('php://input');
-//echo $update;
 $update = json_decode($update, TRUE);
 //global $website;
 $e = print_r($update);
