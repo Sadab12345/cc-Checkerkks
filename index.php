@@ -1,6 +1,6 @@
 <?php
 
-$botToken = "6486751482:AAF2NFLs7a9ID7wIdxG5YK4wpQhGTk6-JJ0";
+$botToken = "7633669044:AAHiS9PWSZkyZeHdTA6m8-6PYNf9DKitfvQ";
 $website = "https://api.telegram.org/bot".$botToken;
 
 // Mensaje en consola para indicar que el bot está activo
