@@ -1,6 +1,6 @@
 <?php
 
-$botToken = "7633669044:AAHiS9PWSZkyZeHdTA6m8-6PYNf9DKitfvQ";
+$botToken = "8170060922:AAHZt8Jti7U5ohkA0_kO4R9bV7GM4EIqNJQ";
 $website = "https://api.telegram.org/bot".$botToken;
 
 // Mensaje en consola para indicar que el bot está activo
@@ -31,7 +31,7 @@ $username3       = ('@'.$username);
  $info            = json_encode($update, JSON_PRETTY_PRINT); 
 $emojid = '❌';
 $emojil = '✅';
-$owner = '<code>@wowfox9</code>';
+$owner = '<code>@anime</code>';
 $botu = "𝐁𝐨𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ↯ @anime";
 $cofuid = '1212';
 $cofuid2 = '1212';
