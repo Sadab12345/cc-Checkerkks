@@ -172,7 +172,12 @@ if ($cdata2 == "free") {
 <b>× GATEWAY - AUTH MASS</b>
 <b>× USAGE - <code>/mchk cc|mm|yy|cvv</code></b>
 <b>× RANK - <code> SPECIAL GRADE LIMITE 25</code></b>
-<b>× STATUS - <code>OFF 🚫</code></b>
+<b>× STATUS - <code>OFF ✅</code></b>
+- - - - - - - - - - - - - - - - - - -
+<b>× GATEWAY - STRIPE AUTH CHARGE 1💲</b>
+<b>× USAGE - <code>/au cc|mm|yy|cvv</code></b>
+<b>× RANK - <code>SPECIAL GRADE</code></b>
+<b>× STATUS - <code>ON ✅</code></b>
 - - - - - - - - - - - - - - - - - - -
 <b>× GATEWAY -BRAINTRE MASS </b>
 <b>× USAGE - <code>/mck cc|mm|yy|cvv</code></b>
@@ -237,6 +242,11 @@ if ($cdata2 == "premium") {
 - - - - - - - - - - - - - - - - - - -
 <b>× GATEWAY - STRIPE AUTH</b>
 <b>× USAGE - <code>/ss cc|mm|yy|cvv</code></b>
+<b>× RANK - <code>SPECIAL GRADE</code></b>
+<b>× STATUS - <code>ON ✅</code></b>
+- - - - - - - - - - - - - - - - - - -
+<b>× GATEWAY - STRIPE [1$]</b>
+<b>× USAGE - <code>/chk cc|mm|yy|cvv</code></b>
 <b>× RANK - <code>SPECIAL GRADE</code></b>
 <b>× STATUS - <code>ON ✅</code></b>
 - - - - - - - - - - - - - - - - - - -
