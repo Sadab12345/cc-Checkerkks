@@ -32,7 +32,7 @@ $username3       = ('@'.$username);
 $emojid = '❌';
 $emojil = '✅';
 $owner = '<code>@wowfox9</code>';
-$botu = "𝐁𝐨𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ↯ @wowfox9";
+$botu = "𝐁𝐨𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ↯ @anime";
 $cofuid = '1212';
 $cofuid2 = '1212';
 $cofuid3 = '1212';
@@ -83,7 +83,7 @@ $callbackmessage = $update->callback_query->message->text;
 $callbackid = $update->callback_query->id;
 
 $text = $update->message->text;
-$owner = '<code>@BADDOOR</code>';
+$owner = '<code>@anime</code>';
 
 
 
@@ -111,7 +111,7 @@ if ($cdata2 == "back") {
             [['text' => '𝙃𝙤𝙢𝙚 🏡', 'callback_data' => 'back2']]
         ]
     ]);
-    $videoUrl = "https://t.me/DartNetc/22";
+    $videoUrl = "https://t.me/+s6xca6W_tc4xNjY1";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -136,7 +136,7 @@ if ($cdata2 == "gates") {
         ]
     ]);
 
-    $videoUrl = "https://t.me/DartNetc/22";
+    $videoUrl = "";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -197,7 +197,7 @@ if ($cdata2 == "free") {
 ";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/DartNetc/22";
+    $videoUrl = "https://t.me/+s6xca6W_tc4xNjY1";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -257,7 +257,7 @@ if ($cdata2 == "premium") {
 - - - - - - - - - - - - - - - - - - -";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/DartNetc/22";
+    $videoUrl = "https://t.me/+s6xca6W_tc4xNjY1";
 
     $inputMediaVideo = json_encode([
         'type' => 'video', 
@@ -317,7 +317,7 @@ if ($cdata2 == "herr") {
 - - - - - - - - - - - - - - - - - - -</b>";
   
     // Change this to your video URL
-    $videoUrl = "https://t.me/DartNetc/22";
+    $videoUrl = "https://t.me/+s6xca6W_tc4xNjY1";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -340,12 +340,12 @@ if ($cdata2 == "price") {
 
     $priceKeyboard = json_encode([
         'inline_keyboard' => [
-            [['text' => ' 𝙃𝙤𝙢𝙚 🏡 ', 'callback_data' => 'back2'], ['text' => '[🜲] 𝙊𝙬𝙣𝙚𝙧', 'url' => 'https://t.me/wowfox9']]
+            [['text' => ' 𝙃𝙤𝙢𝙚 🏡 ', 'callback_data' => 'back2'], ['text' => '[🜲] 𝙊𝙬𝙣𝙚𝙧', 'url' => 'https://t.me/anime']]
         ]
     ]);
 
     // Change this to your video URL
-    $videoUrl = "https://t.me/DartNetc/22";
+    $videoUrl = "https://t.me/+s6xca6W_tc4xNjY1";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -382,16 +382,16 @@ file_get_contents("https://api.telegram.org/bot$botToken/deleteMessage?chat_id=$
 //========finalize end=========//
 $channel = json_encode([
     'inline_keyboard' => [
-        [['text' => "🌧 Owner 🌧 ", 'url' => "https://t.me/BADDOORS"], ['text' => "💥 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 💥", 'url' => "https://t.me/BaddorReferencia"]],
+        [['text' => "🌧 Owner 🌧 ", 'url' => "https://t.me/anime"], ['text' => "💥 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 💥", 'url' => "https://t.me/+s6xca6W_tc4xNjY1"]],
         [['text' => " 𝗕𝗔𝗖𝗞  ", 'callback_data' => 'back2']]
     ]
 ]);
 
 if ($cdata2 == "channel") {
-    $channelText = "<b>𝑱𝒐𝒊𝒏 𝒐𝒖𝒓 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑮𝒓𝒐𝒖𝒑 𝒂𝒏𝒅 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 🥰</b>";
+    $channelText = "<b>𝑱𝒐𝒊𝒏 𝒐𝒖𝒓 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑮𝒓𝒐𝒖𝒑 𝒂𝒏𝒅 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 </b>";
     
     // Change this to your video URL
-    $videoUrl = "https://t.me/DartNetc/22";
+    $videoUrl = "https://t.me/+s6xca6W_tc4xNjY1";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -411,7 +411,7 @@ if ($cdata2 == "back2") {
 ");
     
     // Change this to your video url
-    $backVideoUrl = "https://t.me/DartNetc/22"; 
+    $backVideoUrl = "https://t.me/+s6xca6W_tc4xNjY1"; 
 
     $keyboard2 = json_encode([
         'inline_keyboard' => [
@@ -419,8 +419,8 @@ if ($cdata2 == "back2") {
                                                             ["text" => "𝘾𝙡𝙤𝙨𝙚 🔒", "callback_data" => "price"]
                                                         ],
                                                         [                                     ["text" => "𝙊𝙩𝙝𝙚𝙧 𝙏𝙤𝙤𝙡𝙨 🧰", "callback_data" => "herr"],
-                             ['text' => '[🜲] 𝙊𝙬𝙣𝙚𝙧 ', 'url' => 'https://t.me/wowfox9'],
-                             ['text' => ' 𝗟𝗮𝗳𝗮 (𝗚𝗨𝗜𝗔)', 'url' => 'https://t.me/lafacheck']
+                             ['text' => '[🜲] 𝙊𝙬𝙣𝙚𝙧 ', 'url' => 'https://t.me/anime'],
+                             ['text' => ' 𝗟𝗮𝗳𝗮 (𝗚𝗨𝗜𝗔)', 'url' => 'https://t.me/+s6xca6W_tc4xNjY1']
                                               ],
                                        ]
                                                 ]);
